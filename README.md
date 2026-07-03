@@ -164,9 +164,7 @@ Dashboard includes
 ## Loan Analysis Dashboard
 
 ![](POWER_BI_DASHBOARD_SCREENSHOT/Risk_Analysis.png)
-
 ---
-
 ## Financial Insights Dashboard
 ![](POWER_BI_DASHBOARD_SCREENSHOT/Customer_insight.png)
 
