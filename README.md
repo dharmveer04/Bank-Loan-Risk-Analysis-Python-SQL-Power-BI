@@ -157,19 +157,19 @@ Dashboard includes
 
 ## Executive Dashboard
 
-![POWER_BI_ASHBOARD_SCREENSHORT](Dashboard%20Screens/Executive_Overview.png)
+![](POWER_BI_DASHBOARD_SCREENSHOT/Executive_Overview.png)
 
 ---
 
 ## Loan Analysis Dashboard
 
-![POWER_BI_ASHBOARD_SCREENSHORT](Dashboard%20Screenshots/Risk_Analysis.png)
+![](POWER_BI_DASHBOARD_SCREENSHOT/Risk_Analysis.png)
 
 ---
 
 ## Financial Insights Dashboard
 
-![POWER_BI_ASHBOARD_SCREENSHORT](Dashboard%20Screenshots/Customer_insight.png)
+![](POWER_BI_DASHBOARD_SCREENSHOT/Customer_insight.png)
 
 ---
 
