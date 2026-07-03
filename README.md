@@ -168,7 +168,6 @@ Dashboard includes
 ---
 
 ## Financial Insights Dashboard
-
 ![](POWER_BI_DASHBOARD_SCREENSHOT/Customer_insight.png)
 
 ---
